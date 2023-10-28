@@ -9,9 +9,9 @@ def gs_sheet():
     assert gs_sheet
     
 def test_open_spreadsheet():
-    assert open_spreadsheet("KOWOPE")
+    assert open_spreadsheet("KWOPE")
 
-def test_create_spreadsheet():
+def test_create_emptysheet():
     """
     tests the create spreadsheet function
     """
