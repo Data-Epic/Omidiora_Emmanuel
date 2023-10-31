@@ -10,6 +10,8 @@ def gs_sheet():
     
 def test_open_spreadsheet():
     assert open_spreadsheet("KOWOPE")
+    
+    
 
 def test_create_emptysheet():
     """
